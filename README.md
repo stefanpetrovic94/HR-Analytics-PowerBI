@@ -113,5 +113,3 @@ This project was created as part of my Data Analytics learning journey to practi
 
 ## Author
 Stefan Petrović
-
-Stefan Letrovic
